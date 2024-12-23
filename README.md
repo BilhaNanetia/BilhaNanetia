@@ -5,7 +5,8 @@
 - 📫 Contact: bilhaleposo@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: YOLO
-- 🏍️ Portfolio Website: https://bilha-portfolio.vercel.app/
+- 🏍️ Portfolio Website: https://bilha-portfolio.vercel.app
+- LinkedIn: https://www.linkedin.com/in/bilha-leposo-1656392b8
 
 <!---
 BilhaNanetia/BilhaNanetia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
